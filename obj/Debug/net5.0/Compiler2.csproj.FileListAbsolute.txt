@@ -1,0 +1,244 @@
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\appsettings.Development.json
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\appsettings.json
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.exe
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.deps.json
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.runtimeconfig.json
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.runtimeconfig.dev.json
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.pdb
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.Views.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.Views.pdb
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Grpc.Core.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Grpc.Core.Api.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Humanizer.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.csproj.AssemblyReference.cache
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.GeneratedMSBuildEditorConfig.editorconfig
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.AssemblyInfoInputs.cache
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.AssemblyInfo.cs
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.csproj.CoreCompileInputs.cache
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.MvcApplicationPartsAssemblyInfo.cache
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.RazorAssemblyInfo.cache
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.RazorAssemblyInfo.cs
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\scopedcss\bundle\Compiler2.styles.css
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\staticwebassets\Compiler2.StaticWebAssets.Manifest.cache
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.TagHelpers.input.cache
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.TagHelpers.output.cache
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.RazorCoreGenerate.cache
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\Home\Index1.cshtml.g.cs
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.RazorTargetAssemblyInfo.cache
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.RazorTargetAssemblyInfo.cs
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.Views.pdb
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.csproj.CopyComplete
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\refint\Compiler2.dll
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.pdb
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.genruntimeconfig.cache
+F:\الدراسه\3-Level Three\Second term\6-Compiler\Compiler2\Compiler2\obj\Debug\net5.0\ref\Compiler2.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\appsettings.Development.json
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\appsettings.json
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.exe
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.deps.json
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.runtimeconfig.json
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.runtimeconfig.dev.json
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.pdb
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.Views.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Compiler2.Views.pdb
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Grpc.Core.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Grpc.Core.Api.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Humanizer.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Projects\Compiler\Compiler2\Compiler2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.csproj.AssemblyReference.cache
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.AssemblyInfoInputs.cache
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.AssemblyInfo.cs
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.csproj.CoreCompileInputs.cache
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.RazorAssemblyInfo.cache
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.RazorAssemblyInfo.cs
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\scopedcss\bundle\Compiler2.styles.css
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\staticwebassets\Compiler2.StaticWebAssets.Manifest.cache
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.TagHelpers.input.cache
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.TagHelpers.output.cache
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.RazorCoreGenerate.cache
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\Home\Index1.cshtml.g.cs
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.RazorTargetAssemblyInfo.cache
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.RazorTargetAssemblyInfo.cs
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.Views.pdb
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.csproj.CopyComplete
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.dll
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\refint\Compiler2.dll
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.pdb
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\Compiler2.genruntimeconfig.cache
+E:\Projects\Compiler\Compiler2\Compiler2\obj\Debug\net5.0\ref\Compiler2.dll

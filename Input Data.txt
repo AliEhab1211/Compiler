@@ -1,0 +1,7 @@
+Program ;
+Category x {
+W decrease ( ) {
+Ilap reg3 = 5 ;
+Continuewhen ( counter < num ) {
+reg3 = reg3 - 1 ; } } } 
+End ;
